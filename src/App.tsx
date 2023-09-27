@@ -1,10 +1,10 @@
 import "./App.css";
-import { Example } from "./components/Example/Example";
+import MainContainer from "./components/MainContainer/MainContainer";
 
 function App() {
   return (
     <>
-      <Example />{" "}
+      <MainContainer/>
     </>
   );
 }
